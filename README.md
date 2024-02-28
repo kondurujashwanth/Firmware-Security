@@ -8,81 +8,57 @@ In PPT format available here [Google Slides](https://docs.google.com/presentatio
 
 Operating systems like EmbedOS and EmbedOS provide pre-configured environments for firmware security testing, equipped with necessary tools.
 
-EmbedOS
-https://github.com/scriptingxss/EmbedOS
+[EmbedOS](https://github.com/scriptingxss/EmbedOS)
 
-EmbedOS
-https://github.com/adi0x90/attifyos
+[AttifyOS](https://github.com/adi0x90/attifyos)
 
 # Vulnerable Firmware
 
 To practice discovering vulnerabilities in firmware, use the following vulnerable firmware projects as a starting point.
 
-OWASP IoTGoat
-https://github.com/OWASP/IoTGoat
+[OWASP IoTGoat](https://github.com/OWASP/IoTGoat)
 
-The Damn Vulnerable Router Firmware Project
-https://github.com/praetorian-code/DVRF
+[The Damn Vulnerable Router Firmware Project](https://github.com/praetorian-code/DVRF)
 
-Damn Vulnerable ARM Router (DVAR)
-https://blog.exploitlab.net/2018/01/dvar-damn-vulnerable-arm-router.html
+[Damn Vulnerable ARM Router (DVAR)](https://blog.exploitlab.net/2018/01/dvar-damn-vulnerable-arm-router.html)
 
-ARM-X
-https://github.com/therealsaumil/armx#downloads
+[ARM-X](https://github.com/therealsaumil/armx#downloads)
 
-Azeria Labs VM 2.0
-https://azeria-labs.com/lab-vm-2-0/
+[Azeria Labs VM 2.0](https://azeria-labs.com/lab-vm-2-0/)
 
-Damn Vulnerable IoT Device (DVID)
-https://github.com/Vulcainreo/DVID
+[Damn Vulnerable IoT Device (DVID)](https://github.com/Vulcainreo/DVID)
 
 # Firmware & binary analysis tools
 
 A combination of tools will be used throughout assessing firmware. Listed below, are commonly used tools.
 
-Firmware Analysis Comparison Toolkit (FACT)
+[Firmware Analysis Comparison Toolkit (FACT)](https://github.com/fkie-cad/FACT_core)
 
-FWanalyzer
+[FWanalyzer](https://github.com/cruise-automation/fwanalyzer)
 
-Firmwalker
+[Firmwalker](https://github.com/craigz28/firmwalker)
 
-Firmware Modification Kit
+[Firmware Modification Kit](https://code.google.com/archive/p/firmware-mod-kit/)
 
-Firmadyne
+[Firmadyne](https://github.com/firmadyne/firmadyne)
 
-ByteSweep
+[ByteSweep](https://gitlab.com/bytesweep/bytesweep/-/tree/master)
 
-Binwalk
+[Binwalk](https://github.com/ReFirmLabs/binwalk)
 
-Flashrom
+[Flashrom](https://flashrom.org/)
 
-Openocd
+[Openocd](https://github.com/openocd-org/openocd)
 
-Angr binary analysis framework
+[Angr binary analysis framework](https://github.com/angr/angr)
 
-Binary Analysis Tool
-
-Binary Analysis Platform
-
-BINSEC
-
-Checksec.sh
-
-CHIPSEC
-
-Capstone Engine
-
-Qiling Advanced Binary Emulation Framework
-
-Triton dynamic binary analysis (DBA) framework
-
-EMBA - The firmware security analyzer
+[EMBA - The firmware security analyzer](https://github.com/e-m-b-a/emba)
 
 # Firmware Security Best Practises
 
 Firmware security best practices are crucial for ensuring the integrity, confidentiality, and availability of firmware in electronic devices.
 
-https://eclypsium.com/wp-content/uploads/Firmware-and-Frameworks.pdf
+[Firmware Security Best Practises](https://eclypsium.com/wp-content/uploads/Firmware-and-Frameworks.pdf)
 
 # Want me to speak?
 
